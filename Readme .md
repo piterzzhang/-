@@ -18,6 +18,11 @@
 
 3.刘亦菲
 
+我的网站是[我的官网](http://baidu.com)
+
+![一张图片](1.png)
+
 ``` javascript
 console .log('hello')
 ```
+
